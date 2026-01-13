@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K8VYCTXQNL"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-K8VYCTXQNL');
+    </script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edgar's CV · The Great Adventure</title>
+  </head>
+  <body>
+    <style>
+      
+    </style>
+    <div id="start-box">
+        <div class="start-container">
+            <p class="glitch">
+                <span aria-hidden="true">Edgar's CV <br> The Great Adventure</span>
+                Edgar's CV <br> The Great Adventure
+                <span aria-hidden="true">Edgar's CV <br> The Great Adventure</span>
+            </p>
+        </div>
+        <div class="start-text">Elige una opción:</div>
+        <div id="init-menu">
+          <ul>
+            <li data-action="start">Empezar la aventura</li>
+            <li class="play-music" data-action="">Música ON/<strong>OFF</strong></li>
+            <li data-action="download" data-src="cv_edgar_morera.pdf">CV en pdf</li>
+          </ul>
+        </div>
+    </div>
+    <div id="app" style="display: none;">
+      <div id="ui">
+        <p class="note">
+          <span class="play-music" >Música ON/<strong>OFF</strong></span><br/>
+          Pincha donde quieres ir y manten pulsado.</p>
+        <div id="textbox-container" style="display: none;">
+          <div id="textbox">
+            <p id="dialogue" class="ui-text"></p>
+            <div class="btn-container">
+              <button id="prev" class="ui-prev-button nav-button" style="display: none;">Anterior</button>
+              <button id="next" class="ui-next-button nav-button" style="display: none;">Siguiente</button>
+              <button id="close" class="ui-close-button">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <canvas id="game"></canvas>
+    </div>
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
