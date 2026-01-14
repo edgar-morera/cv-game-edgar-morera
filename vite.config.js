@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 export default defineConfig({
     base: "/cv-game-edgar-morera/",
     build: {
-        minify: "teser",
+        minify: "terser",
     },
     server: {
         port: 5173,
