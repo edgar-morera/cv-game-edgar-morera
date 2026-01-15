@@ -26,10 +26,9 @@ export const dialogueData = {
     relax: [`Oye!!!<br/>Supongo que no has venido aquí a dormir...`],
     resume: [`
         Mi nombre es <strong>Edgar</strong>.<br/>
-        Soy un apasionado de la tecnología y llevo desde 2008 dedicándome al desarrollo web.<br/>
-        Con el paso de los años me he especializado en desarrollo backend con PHP, aunque tengo conocimientos en otras áreas.<br/>
-        Son muchos los proyectos en los que he participado, abarcando un gran número de soluciones en diferentes ámbitos.<br/>
-        Lo que me ha permitido adquirir habilidades frente al cambio, tanto en producto como en servicio.
+        Desarrollador backend con más de 15 años de experiencia en PHP y frameworks, especializado en diseñar e implementar arquitecturas escalables y mantenibles. He hecho migraciones de sistemas legacy, construido APIs y trabajado en entornos cloud con pipelines CI/CD completamente automatizados.<br/>
+        Entre mis tareas comunes se encuentran la optimización de rendimiento (consultas, caching, CDN), la integración con servicios externos (emailing, APIs, redes sociales), la generación y tratamiento de ficheros e imágenes, la refactorización con cobertura de tests. Siempre mano a mano con otros equipos y stakeholders para la definición y desarrollo de tareas.<br/>
+        Participo en el mentoring y el uso de buenas prácticas dentro de los equipos, enfocado en la mejora continua y cultura DevOps.
     `],
     projects: [
         `
