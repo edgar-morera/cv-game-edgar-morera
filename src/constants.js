@@ -33,35 +33,61 @@ export const dialogueData = {
     `],
     projects: [
         `
-        <strong>2008-2015 Web Financial Group: Desarrollador PHP</strong><br/><br/>
-        &nbsp;* Equipos multidisciplinares &#128106;<br/>
-        &nbsp;* Multitud de soluciones web &#129520;<br/>
-        &nbsp;* Desarrollo de producto &#8473;<br/>
-        &nbsp;* Desarrollo de framework MVC &#128421;
+        <strong>2008-2015 Fullstack PHP — Bolsamania / Web Financial Group</strong><br/><br/>
+        <table>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Desarrollo en PHP, MySQL, JavaScript, HTML/CSS de proyectos web para clientes del sector financiero y bursatil. &#128200;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Durante 4 años formé parte del equipo de desarrollo de Bolsamanía.com, una web de noticias e información financiera. Hecha en Symfony 1.4 se migró a un framework MVC interno.🌅</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Integraciones con redes sociales.🗫</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Solución web para tratamiento de imágenes (gestor de formatos, marca de agua, capha custom).🖻</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Servicios de email marketing.📬</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Creación de soluciones ETL personalizadas.🜎</td></tr>
+        </table>
         `,
         `
-        <strong>2016 RedK: Desarrollador PHP</strong><br/><br/>
-        &nbsp;* CRMs &#128212;<br/>
-        &nbsp;* CI/CD &#10227;<br/>
-        &nbsp;* Equipos multidisciplinares &#128106;<br/>
-        &nbsp;* Módulos personalizados &#128218;
+        <strong>2016 Backend PHP — RedK</strong><br/><br/>
+        <table>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Configuración de instancias de SugarCRM y adaptaciones por proyecto.🛣</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Automatización de procesos y pequeñas integraciones con REST APIs.🗐</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Resolución de incidencias técnicas y soporte al cliente.📥</td></tr>
+        </table>
         `,
         `
-        <strong>2017-2020 Madrid Destino: Desarrollador PHP</strong><br/><br/>
-        &nbsp;* Máximo responsable técnico &#129332;<br/>
-        &nbsp;* Frameworks y CMS &#128209;&#128209;<br/>
-        &nbsp;* Migraciones entre sistemas &#128228;&#128229;
+        <strong>2017-2020 Fullstack PHP — Madrid Destino</strong><br/><br/>
+        <table>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Único desarrollador responsable técnicamente del proyecto CiudaDistrito. &#128188;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Migraciones WordPress a Symfony 4 y WordPress a Drupal 8. &#128228;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Responsable de arquitectura técnica, despliegues y soporte de la plataforma. &#128736;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Integración con APIs de terceros (Google Maps, redes sociales, etc.).🗐</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Creación de temas y plugins personalizados para WordPress. &#128421;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Integración con servicio SOAP del Ayuntamiento de Madrid. &#128279;</td></tr>
+        </table>
         `,
         `
-        <strong>2020-2023 Devoteam: Desarrollador PHP/Tech lead</strong><br/><br/>
-        &nbsp;* Gran volumen de datos &#128200;<br/>
-        &nbsp;* CI/CD&#10227;<br/>
-        &nbsp;* Frameworks y CMS &#128209;&#128209;<br/>
-        &nbsp;* CDN &#127757;<br/>
-        &nbsp;* PaaS &#128331;<br/>
-        &nbsp;* Desarrollo de producto &#8473;<br/>
-        &nbsp;* Responsable de equipo &#129495;
+        <strong>2020-2023 Fullstack developer PHP — Schär / Devoteam</strong><br /><br/>
+        <table>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>CRM con contenido en más de 25 idiomas y más de 300k usuarios registrados. &#128200;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Servicios cloud (Platform y Aquia cloud). ☁️</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>CI/CD usando Jenkins. ⚙️</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Mantenimiento de sistema Fastly (Servicio de CDN + Varnish). &#9889;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Integraciones con sistemas de gestión de incidencias y chat con agente (Zendesk) así como chatbot (Dialogflow). &#128218;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Sistema de creación de landing page con formularios webforms traducibles con herramientas de terceros (Linkgotek). &#128279;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Durante 10 meses fui tech lead de un equipo de ~8 personas: implanté Docker como herramienta de desarrollo, normas de código y formación interna. &#128188;</td></tr>
+        </table>
+        `,
         `
+        <strong>2024-2026 Backend PHP — Catalonia hotels / Business Insights</strong><br/><br/>
+        <table>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Análisis y desarrollo de apis en Symfony y Drupal.🗐</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>CI/CD con GitLab y Google Cloud (App Engine/Cloud run). ☁️</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Refactorización de sistemas legados a arquitecturas y código más testables (PHPUnit) y escalables. &#128421;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Mantenimiento y optimización de plataformas de reservas y gestión interna. ⚡</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Integración con servicios externos y optimización del rendimiento en aplicaciones críticas. &#128279;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Implementación de mejoras en la generación de documentos y reportes internos. &#128218;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Participación en revisiones de código y establecimiento de buenas prácticas de desarrollo. &#129495;</td></tr>
+          <tr><td style="vertical-align: top;">&nbsp;*</td><td>Uso de herramientas de control de versiones (Git) y metodologías ágiles para la gestión de proyectos. &#129495;</td></tr>
+        </table>
+        `
+        
     ],
     skills: [`Habilidades destacadas:<br/><br/>
     <div id="skills">
